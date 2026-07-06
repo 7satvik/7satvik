@@ -15,25 +15,11 @@
 </div>
 
 <br>
-
-```
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█                       ▓▓ ABOUT.EXE ▓▓                              █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
 I'm a **Computer Science undergraduate (Research track)** at Aryabhatta College, University of Delhi, into AI/ML, full-stack dev, and data engineering. I like building things end-to-end — raw data ➜ working product.
 
 Currently the **Secretary of TechPioneers Society**, leading a 45-member technical team organizing college-wide workshops and events.
 
 <br>
-
-```
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█                     ▓▓ TECH_STACK.DLL ▓▓                           █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,git&theme=dark" />
 </div>
@@ -48,13 +34,6 @@ Currently the **Secretary of TechPioneers Society**, leading a 45-member technic
 | ⬛ **TOOLS** | Git · Google Colab · Google Sheets · Excel |
 
 <br>
-
-```
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█                      ▓▓ PROJECTS.MAP ▓▓                            █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -92,13 +71,6 @@ Hyperledger Fabric-based organ donation platform, 15 smart contract functions ac
 </table>
 
 <br>
-
-```
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█                    ▓▓ ACHIEVEMENTS.SAV ▓▓                          █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
 | 🏆 RECOGNITION | YEAR |
 |:---|:---:|
 | Selected Presenter — National Young Scholars' Conference (SGGSCC) & UGREE, University of Delhi | 2026 |
@@ -110,13 +82,6 @@ Hyperledger Fabric-based organ donation platform, 15 smart contract functions ac
 <br>
 
 <div align="center">
-
-```
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█              ▓▓ INSERT COIN TO CONTINUE ▓▓                         █
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
-```
-
 📫 **satvikpatelofficial@gmail.com** · [LINKEDIN](https://linkedin.com/in/SatvikPatel) · [GITHUB](https://github.com/7satvik)
 
 ![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:9BBC0F,50:8BAC0F,100:0F380F&height=120&section=footer)
