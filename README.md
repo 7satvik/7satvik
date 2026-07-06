@@ -92,7 +92,8 @@ Hyperledger Fabric-based organ donation platform, 15 smart contract functions ac
 
 📫 Feel free to reach out — **satvikpatelofficial@gmail.com** · [LinkedIn](https://linkedin.com/in/SatvikPatel) · [GitHub](https://github.com/7satvik)
 
-![Footer]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer))
+![Footer]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer]
+)
 
 </div><div align="center">
 
