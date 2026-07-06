@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satvik%20Patel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20AI%2FML%20%7C%20Web%20Dev&descAlignY=55&descSize=16)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=B.Sc+(Hons)+Computer+Science%2C+Delhi+University;Building+with+AI%2C+Data%2C+and+Web+Dev;Always+learning%2C+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=.BSc+(Hons)+Computer+Science%2C+Delhi+University;Building+with+AI%2C+Data%2C+and+Web+Dev;Always+learning%2C+always+building." alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-satvikpatelofficial%40gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white)](mailto:satvikpatelofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SatvikPatel-6D28D9?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SatvikPatel)
